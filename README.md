@@ -96,6 +96,7 @@ Deployment: Render / Heroku / AWS
 🎥 Demo Video
 Watch the full project walkthrough here:
 ▶️ Harvest Intel - Project Demo
+https://1drv.ms/v/c/914ebfadc8323344/EUDtVcarH9tBuIafMc8eXEQBHK-hbvqH_6qyjSFvKh2JTg?e=nRlcp3
 
 
 
