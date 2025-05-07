@@ -1,7 +1,7 @@
 🌾 Harvest Intel
 Machine Learning–powered platform for intelligent agriculture.
 Harvest Intel uses data-driven models to help farmers make better decisions, improve crop yield, and manage resources more efficiently.
-#TEAM MEMBER - 
+TEAM MEMBER - 
 #Aaneya Shokeen 
 #Rashi Bhardwaj 
 #Hem Prakash 
