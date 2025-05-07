@@ -1,7 +1,9 @@
 ## 🚀 Project Overview  
-**PROJECT_TITLE** — ONE‑LINER TAGLINE  
-A brief description of what your project does and the problem it solves.
-
+# HARVEST INTEL
+TEAM MEMBER -AANEYA SHOKEEN 
+             RASHI BHARDWAJ
+             HEM PRAKASH
+             SUHANI SAHU
 ## 🛠️ Tech  
 `Python` | `Django` | `PostgreSQL` | `Docker` | `AWS` | `NumPy` | `Pandas` | `TensorFlow` | `React`
 
@@ -26,4 +28,4 @@ Real-time predictions using ML
 Clean and responsive UI with React
 
 📹 Demo
-Coming soon!
+https://1drv.ms/v/c/914ebfadc8323344/EUDtVcarH9tBuIafMc8eXEQBHK-hbvqH_6qyjSFvKh2JTg?e=zFWy3s
